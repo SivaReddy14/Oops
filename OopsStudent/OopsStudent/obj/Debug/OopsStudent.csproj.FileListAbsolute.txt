@@ -1,0 +1,7 @@
+D:\Oops\OopsStudent\OopsStudent\bin\Debug\OopsStudent.exe.config
+D:\Oops\OopsStudent\OopsStudent\bin\Debug\OopsStudent.exe
+D:\Oops\OopsStudent\OopsStudent\bin\Debug\OopsStudent.pdb
+D:\Oops\OopsStudent\OopsStudent\obj\Debug\OopsStudent.csproj.AssemblyReference.cache
+D:\Oops\OopsStudent\OopsStudent\obj\Debug\OopsStudent.csproj.CoreCompileInputs.cache
+D:\Oops\OopsStudent\OopsStudent\obj\Debug\OopsStudent.exe
+D:\Oops\OopsStudent\OopsStudent\obj\Debug\OopsStudent.pdb
